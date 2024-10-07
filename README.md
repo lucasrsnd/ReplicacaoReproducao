@@ -7,7 +7,7 @@ Neste diretório está presente todos os dados e códigos utilizados como base d
 Foi utilizado o artigo [Volunteers' Engagement in Human Computation for Astronomy Projects](https://doi.org/10.1109/MCSE.2014.4) para representar a análise da duração típica de sessões de atividade. A replicação foca na metodologia proposta para caracterizar o engajamento dos voluntários, especificamente a análise da distribuição de durações de sessões de atividade. Os resultados obtidos foram consistentes com os padrões descritos pelos autores, mostrando que o limiar afeta a identificação das sessões e a percepção do comportamento de engajamento dos voluntários, corroborando as conclusões do estudo original.
 
 ## Códigos utilizados
-Codigo Utilizado no projeto =  [main.py](main.py)]
+Codigo Utilizado no projeto =  [main.py](main.py)
 
 1- Nesse codigo colocamos o repositorio no qual sera buscado os dados
 
@@ -17,7 +17,7 @@ Codigo Utilizado no projeto =  [main.py](main.py)]
 
 ## Dados usados coletados e gerados na replicação
 
-os dados foram coletador por meio da API do github, ao rodar o codigo no terminal aparecera todos os dados coletados pela api, nosso dados utilizarmos nesse trabalho foram coletados dia 06/10/2024. Os arquivos contendo os resultado obtidos são: [Resultados React](https://github.com/lucasrsnd/ReplicacaoReproducao/blob/main/React) , [Resultados Typescript](typescript)
+os dados foram coletador por meio da API do github, ao rodar o codigo no terminal aparecera todos os dados coletados pela api, nosso dados utilizarmos nesse trabalho foram coletados dia 06/10/2024. Os arquivos contendo os resultado obtidos são: [Resultados React](https://github.com/lucasrsnd/ReplicacaoReproducao/blob/main/React) , [Resultados Typescript](https://github.com/lucasrsnd/ReplicacaoReproducao/blob/main/Typescript)
 
 ---
 _Davi Érico dos Santos (davi.erico@sga.pucminas.br)_
