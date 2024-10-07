@@ -9,15 +9,15 @@ Foi utilizado o artigo [Volunteers' Engagement in Human Computation for Astronom
 ## Códigos utilizados
 Codigo Utilizado no projeto =  [main.py](main.py)
 
-1- Nesse codigo colocamos o repositorio no qual sera buscado os dados
+- Neste código, especificamos o repositório no qual os dados serão buscados.
 
-2- O codigo busca pelos usuarios e o tempo de duração de suas atividades
+- O código realiza a busca pelos usuários e pelo tempo de duração de suas atividades.
 
-3- Organiza todos os usuarios coletados de forma decrescente
+- Organiza todos os usuários coletados em ordem decrescente.
 
 ## Dados usados coletados e gerados na replicação
 
-Os dados foram coletador por meio da API do github, ao rodar o codigo no terminal aparecera todos os dados coletados pela api, nosso dados utilizarmos nesse trabalho foram coletados dia 06/10/2024. Os arquivos contendo os resultado obtidos são: [Resultados React](https://github.com/lucasrsnd/ReplicacaoReproducao/blob/main/React) , [Resultados Typescript](https://github.com/lucasrsnd/ReplicacaoReproducao/blob/main/Typescript)
+Os dados foram coletados por meio da API do GitHub. Ao executar o código no terminal, serão exibidos todos os dados coletados pela API. Os dados utilizados neste trabalho foram coletados no dia 06 de outubro de 2024. Os arquivos contendo os resultados obtidos são: [Resultados React](https://github.com/lucasrsnd/ReplicacaoReproducao/blob/main/React) , [Resultados Typescript](https://github.com/lucasrsnd/ReplicacaoReproducao/blob/main/Typescript)
 
 ---
 _Davi Érico dos Santos (davi.erico@sga.pucminas.br)_
