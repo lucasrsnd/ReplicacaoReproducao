@@ -17,7 +17,9 @@ Codigo Utilizado no projeto =  [main.py](main.py)
 
 ## Dados usados coletados e gerados na replicação
 
-Os dados foram coletados por meio da API do GitHub. Ao executar o código no terminal, serão exibidos todos os dados coletados pela API. Os dados utilizados neste trabalho foram coletados no dia 06 de outubro de 2024. Os arquivos contendo os resultados obtidos são: [Resultados React](https://github.com/lucasrsnd/ReplicacaoReproducao/blob/main/React) , [Resultados Typescript](https://github.com/lucasrsnd/ReplicacaoReproducao/blob/main/Typescript)
+Os dados foram coletados por meio da API do GitHub. Ao executar o código no terminal, serão exibidos todos os dados coletados pela API. Os dados utilizados neste trabalho foram coletados no dia 06 de outubro de 2024. Os arquivos contendo os resultados obtidos são: 
+
+[Resultados React](https://github.com/lucasrsnd/ReplicacaoReproducao/blob/main/React) , [Resultados Typescript](https://github.com/lucasrsnd/ReplicacaoReproducao/blob/main/Typescript)
 
 ---
 _Davi Érico dos Santos (davi.erico@sga.pucminas.br)_
