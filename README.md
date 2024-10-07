@@ -9,6 +9,10 @@ Foi utilizado o artigo [Volunteers' Engagement in Human Computation for Astronom
 ## Códigos utilizados
 Codigo Utilizado no projeto =  main.py
 
+1- Nesse codigo colocamos o repositorio no qual sera buscado os dados
+2- O codigo busca pelos usuarios e o tempo de duração de suas atividades
+3- Organiza todos os usuarios coletados de forma decrescente
+
 ## Dados usados coletados e gerados na replicação
 
 ---
