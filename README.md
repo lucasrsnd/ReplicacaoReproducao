@@ -17,6 +17,8 @@ Codigo Utilizado no projeto =  main.py
 
 ## Dados usados coletados e gerados na replicação
 
+os dados foram coletador por meio da API do github, ao rodar o codigo no terminal aparecera todos os dados coletados pela api, nosso dados utilizarmos nesse trabalho foram coletados dia 06/10/2024. Os arquivos contendo os resultado obtidos são: react , typescript
+
 ---
 _Davi Érico dos Santos (davi.erico@sga.pucminas.br)_
 
